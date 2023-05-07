@@ -12,9 +12,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+<img src="./screenshot.png" width="383" height="694"/>
 
 ### Links
 
 - Solution URL: [Solution](https://github.com/Huderon/frontendmentor.io/tree/main/qr-code-component)
-- Live Site URL: [Live Site](https://huderon.github.io/frontendmentor.io/qr-code-component/)
+- Live Site URL: [Live](https://huderon.github.io/frontendmentor.io/qr-code-component/)
